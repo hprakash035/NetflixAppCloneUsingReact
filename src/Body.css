@@ -1,0 +1,10 @@
+.body{
+	background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2M5eyFS22dj9Vp-vaB1HzPGJtqjrafZu1gA&usqp=CAU");
+	height:500px;
+	height: 500px;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: relative;
+	display:flex;
+}
